@@ -32,8 +32,8 @@ public class SortingNumbers {
         }
 
         System.out.println("Sorted list of numbers:");
-        for (int numero : numbers) {
-            System.out.print(numero + " ");
+        for (int number : numbers) {
+            System.out.print(number + " ");
         }
 
         scanner.close();
